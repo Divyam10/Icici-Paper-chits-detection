@@ -3,6 +3,7 @@
 
 ## Description
 Paper chit / Garbage detection in ATMs
+Detection is bypassed when person/crowd is present
 Samples in Folder : mples icici
 
 ## Setup
@@ -22,6 +23,8 @@ $ python detect \chits.py
 Scope of imporvemrnt:
 1. Automatic gamma value aduster
 2. Automatic determination of floor area to reduce ROI. 
+
+## Sample Output
 ![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/1.JPG)
 ![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/2.JPG)
 ![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/3.JPG)
