@@ -22,3 +22,13 @@ $ python detect \chits.py
 Scope of imporvemrnt:
 1. Automatic gamma value aduster
 2. Automatic determination of floor area to reduce ROI. 
+![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/1.JPG)
+![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/2.JPG)
+![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/3.JPG)
+![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/4.JPG)
+![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/5.JPG)
+![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/6.JPG)
+![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/7.JPG)
+![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/8.JPG)
+![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/9.JPG)
+![alt text](https://github.com/Divyam10/Icici-Paper-chits-detection/blob/master/samples/10.JPG)
