@@ -20,5 +20,5 @@ $ pip install -r requirements.txt
 $ python detect \chits.py
 ```
 Scope of imporvemrnt:
-1. Automatic gaamma value aduster
+1. Automatic gamma value aduster
 2. Automatic determination of floor area to reduce ROI. 
